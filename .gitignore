@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+
+.DS_Store
+
+data/raw/
+data/processed/
+data/rejected/
+
+logs/*.log
+
+.env
